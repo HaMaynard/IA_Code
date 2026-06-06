@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Combat
+comment1.params=
+comment1.target=Combat()
+comment10.params=g
+comment10.target=void\ paintComponent(java.awt.Graphics)
+comment11.params=
+comment11.target=void\ updatePosition()
+comment2.params=
+comment2.target=void\ setEnemy()
+comment3.params=
+comment3.target=void\ turn()
+comment4.params=
+comment4.target=void\ setValues()
+comment5.params=
+comment5.target=void\ displayHealth()
+comment6.params=
+comment6.target=void\ addItems()
+comment7.params=
+comment7.target=void\ startFight()
+comment8.params=
+comment8.target=void\ run()
+comment9.params=
+comment9.target=void\ resetValues()
+numComments=12

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Time
+comment1.params=timeWanted
+comment1.target=Time(int)
+comment2.params=
+comment2.target=void\ startTime()
+comment3.params=
+comment3.target=void\ run()
+numComments=4

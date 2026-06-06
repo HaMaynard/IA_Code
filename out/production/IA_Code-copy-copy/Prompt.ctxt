@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Prompt
+comment1.params=
+comment1.target=Prompt()
+comment2.params=pass
+comment2.target=void\ readIn(int)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=remains
+comment4.target=void\ enemyUpdate(int)
+comment5.params=locName
+comment5.target=void\ locUpdate(java.lang.String)
+numComments=6

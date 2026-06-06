@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Layout
+comment1.params=
+comment1.target=Layout()
+comment2.params=loc
+comment2.target=void\ setLoc(int)
+comment3.params=
+comment3.target=java.lang.String\ getLoc()
+comment4.params=
+comment4.target=void\ startGame()
+comment5.params=
+comment5.target=void\ run()
+comment6.params=
+comment6.target=boolean\ stepCount()
+comment7.params=g
+comment7.target=void\ paintComponent(java.awt.Graphics)
+comment8.params=
+comment8.target=void\ updatePos()
+numComments=9
